@@ -1,0 +1,10 @@
+/Volumes/Data/Private/06_Universidad/07/Arquitectura_sofware/trivia_soap/target/debug/deps/libversion_check-72adc1144f901fef.rmeta: /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/Volumes/Data/Private/06_Universidad/07/Arquitectura_sofware/trivia_soap/target/debug/deps/libversion_check-72adc1144f901fef.rlib: /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/Volumes/Data/Private/06_Universidad/07/Arquitectura_sofware/trivia_soap/target/debug/deps/version_check-72adc1144f901fef.d: /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs:
+/Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs:
+/Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs:
+/Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs:

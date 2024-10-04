@@ -1,0 +1,10 @@
+/Volumes/Data/Private/06_Universidad/07/Arquitectura_sofware/trivia_soap/target/debug/deps/libactix_rt-5fc467df976ea5d5.rmeta: /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/lib.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/arbiter.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/runtime.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/system.rs
+
+/Volumes/Data/Private/06_Universidad/07/Arquitectura_sofware/trivia_soap/target/debug/deps/libactix_rt-5fc467df976ea5d5.rlib: /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/lib.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/arbiter.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/runtime.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/system.rs
+
+/Volumes/Data/Private/06_Universidad/07/Arquitectura_sofware/trivia_soap/target/debug/deps/actix_rt-5fc467df976ea5d5.d: /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/lib.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/arbiter.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/runtime.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/system.rs
+
+/Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/lib.rs:
+/Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/arbiter.rs:
+/Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/runtime.rs:
+/Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/system.rs:

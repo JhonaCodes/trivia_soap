@@ -1,0 +1,11 @@
+/Volumes/Data/Private/06_Universidad/07/Arquitectura_sofware/trivia_soap/target/debug/deps/libipnet-d308aab38802a6b5.rmeta: /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/lib.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipext.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipnet.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/parser.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/mask.rs
+
+/Volumes/Data/Private/06_Universidad/07/Arquitectura_sofware/trivia_soap/target/debug/deps/libipnet-d308aab38802a6b5.rlib: /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/lib.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipext.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipnet.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/parser.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/mask.rs
+
+/Volumes/Data/Private/06_Universidad/07/Arquitectura_sofware/trivia_soap/target/debug/deps/ipnet-d308aab38802a6b5.d: /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/lib.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipext.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipnet.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/parser.rs /Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/mask.rs
+
+/Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/lib.rs:
+/Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipext.rs:
+/Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipnet.rs:
+/Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/parser.rs:
+/Users/jhonatanortiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/mask.rs:
