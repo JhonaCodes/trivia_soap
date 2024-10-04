@@ -1,1 +1,0 @@
-/Volumes/Data/Private/06_Universidad/07/Arquitectura_sofware/trivia_soap/target/debug/trivia_soap: /Volumes/Data/Private/06_Universidad/07/Arquitectura_sofware/trivia_soap/src/main.rs /Volumes/Data/Private/06_Universidad/07/Arquitectura_sofware/trivia_soap/src/models.rs /Volumes/Data/Private/06_Universidad/07/Arquitectura_sofware/trivia_soap/src/services.rs
