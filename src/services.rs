@@ -1,8 +1,14 @@
 use actix_web::{web,Responder, HttpResponse};
 use reqwest::Client as HttpClient;
-use crate::{ApiResponse, QueryParams, ServiceResponse};
+use crate::models::{
+	ApiResponse,
+	QueryParams,
+	ServiceResponse,
+};
+
 
 pub async fn get_questions( http_client: web::Data<HttpClient>, query: web::Query<QueryParams>, ) -> impl Responder {
+	
     let url = format!( "https://opentdb.com/api.php?amount={}&category={}&difficulty={}",
         query.amount,
         query.category.as_deref().unwrap_or(""),

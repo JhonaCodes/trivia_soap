@@ -1,8 +1,8 @@
 mod services;
 mod models;
 
-use actix_web::{web, App, HttpServer, Responder};
-use serde::{Deserialize, Serialize};
+use actix_web::{web, App, HttpServer};
+
 use reqwest::Client as HttpClient;
 use crate::services::get_questions;
 
